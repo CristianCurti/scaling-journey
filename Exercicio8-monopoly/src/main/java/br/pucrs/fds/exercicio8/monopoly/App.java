@@ -11,7 +11,7 @@ package br.pucrs.fds.exercicio8.monopoly;
  */
 public class App {
     public static void main(String[] args){
-        System.out.println("Hello YARR");
+        System.out.println("YARR and a bottle of RUUM!");
     }
            
 }
