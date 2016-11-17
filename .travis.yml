@@ -1,2 +1,2 @@
 language: java
-script: mvn test -f ./monopoly/pom.xml
+script: mvn test -f ./Exercicio8-monopoly/pom.xml
